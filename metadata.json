@@ -1,0 +1,5 @@
+{
+  "name": "Copy of TradeMind AI",
+  "description": "An AI-powered dashboard that produces high-probability trading signals and recommended hedging strategies. It simulates converting probabilistic AI signals into engineered payoffs with a focus on risk management.",
+  "requestFramePermissions": []
+}
